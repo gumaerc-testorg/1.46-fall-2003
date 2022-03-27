@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 30afd66d-159e-6b7d-54ff-106cb58715cc
 resourcetype: Document
 title: st_08_it_st_frag.pdf
 uid: 5f26f605-e428-0c81-1bfb-f635786e2a70

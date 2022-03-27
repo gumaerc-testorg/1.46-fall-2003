@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 30afd66d-159e-6b7d-54ff-106cb58715cc
 resourcetype: Document
 title: strtgc_managmnt.pdf
 uid: 5fb48007-2ec6-37be-82e2-0f75aeba68b8
