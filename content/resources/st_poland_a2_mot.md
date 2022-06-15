@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/51a88222e14c4b04a1c30fd6ffaffaf5_st_poland_a2_mot.pdf
+file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/51a88222e14c4b04a1c30fd6ffaffaf5_st_poland_a2_mot.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

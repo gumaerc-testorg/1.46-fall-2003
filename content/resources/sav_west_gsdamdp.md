@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/a559c98b5064cad59f137d0069f9c848_sav_west_gsdamdp.xls
+file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/a559c98b5064cad59f137d0069f9c848_sav_west_gsdamdp.xls
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
