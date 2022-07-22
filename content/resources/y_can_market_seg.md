@@ -5,6 +5,7 @@ file: /courses/1-46-strategic-management-in-the-design-and-construction-value-ch
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: y_can_market_seg.xls
 uid: 9b9ca6eb-f06c-2bc9-1a90-c81a1ec5b238
 ---
 States The Problem, The Approach, and The Strategy
-

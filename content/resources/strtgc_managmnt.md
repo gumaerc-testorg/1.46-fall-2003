@@ -5,6 +5,7 @@ file: /courses/1-46-strategic-management-in-the-design-and-construction-value-ch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: strtgc_managmnt.pdf
 uid: 5fb48007-2ec6-37be-82e2-0f75aeba68b8
 ---
 Lessons Learned Regarding Firm Value Chain and Market Segmentation Tools
-

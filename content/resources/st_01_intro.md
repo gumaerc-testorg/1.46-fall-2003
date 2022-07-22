@@ -5,6 +5,7 @@ file: /courses/1-46-strategic-management-in-the-design-and-construction-value-ch
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: st_01_intro.pdf
 uid: 984ee3b3-e5ad-2ebe-6587-b1852a68c443
 ---
 Concepts and Calendar for Course
-
