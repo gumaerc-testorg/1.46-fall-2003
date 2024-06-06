@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/9cb10bcb720bbfdb5747184f0a6cff09_st_07_vert_integ.pdf
+file_size: 54551
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
