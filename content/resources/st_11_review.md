@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/a02604f724d291fff782395ccb12fb45_st_11_review.pdf
+file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/a02604f724d291fff782395ccb12fb45_st_11_review.pdf
 file_size: 131596
 file_type: application/pdf
 learning_resource_types:
