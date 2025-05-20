@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: States The Problem, The Approach, and The Strategy
-file: /ol-ocw-studio-app/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/9b9ca6ebf06c2bc91a90c81a1ec5b238_y_can_market_seg.xls
+file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/9b9ca6ebf06c2bc91a90c81a1ec5b238_y_can_market_seg.xls
 file_size: 16896
 file_type: application/msword
 learning_resource_types:

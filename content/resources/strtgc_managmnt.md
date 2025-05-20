@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lessons Learned Regarding Firm Value Chain and Market Segmentation Tools
-file: /ol-ocw-studio-app/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/5fb480072ec637be82e20f75aeba68b8_strtgc_managmnt.pdf
+file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/5fb480072ec637be82e20f75aeba68b8_strtgc_managmnt.pdf
 file_size: 22678
 file_type: application/pdf
 learning_resource_types:
