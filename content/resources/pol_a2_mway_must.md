@@ -2,7 +2,7 @@
 content_type: resource
 description: This worksheet is intended to illustrate how to get at some of the simple
   fundamentals of the economics, for basic discussion purposes.
-file: /ol-ocw-studio-app/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/5bea5bda006a22286121018afdcda459_pol_a2_mway_must.xls
+file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/5bea5bda006a22286121018afdcda459_pol_a2_mway_must.xls
 file_size: 19456
 file_type: application/msword
 learning_resource_types:
