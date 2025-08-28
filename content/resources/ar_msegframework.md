@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/ab2d05f517dd647fd7c70f75d1b090c0_ar_msegframework.xls
+file: /ol-ocw-studio-app/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/ab2d05f517dd647fd7c70f75d1b090c0_ar_msegframework.xls
 file_size: 16384
 file_type: application/msword
 learning_resource_types:
