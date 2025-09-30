@@ -338,13 +338,13 @@ Select and use the tools introduced in the course to help make your argument. Al
 
 While this case is written to be largely about boardroom dynamics, we will spend more time on looking at opportunities for the firm going forward.
 
-What roles does [Del Webb Inc.](http://www.delwebb.com/) play in the Industry Value System? Does this answer depend on some kind of market segmentation assumption?
+What roles does {{% resource_link "d974fa9e-891b-4aad-8185-af4f54b8df4f" "Del Webb Inc." %}} play in the Industry Value System? Does this answer depend on some kind of market segmentation assumption?
 
 How would you articulate Del Webb Inc's market segmentation choices? In what ways would you determine which segments were the most attractive?
 
 What would their firm value chain (or chains) look like to see your strategy implemented?
 
-The company has subsequently gone in another direction following its 2002 acquisition by [Pulte Homes](http://www.pulte.com/): Was this inevitable? Is this the best that could have happened given Dion's options at the time of the case?
+The company has subsequently gone in another direction following its 2002 acquisition by {{% resource_link "945e5ca5-cad6-4222-b34c-f81dab6c768d" "Pulte Homes" %}}: Was this inevitable? Is this the best that could have happened given Dion's options at the time of the case?
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
